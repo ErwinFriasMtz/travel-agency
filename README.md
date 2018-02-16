@@ -2,4 +2,4 @@
 
 Good looking landing page designed by [ GraphicStall](https://dribbble.com/graphicstall).
 
-![FontCDN screenshot](./images/template.png)
+![FontCDN screenshot](./assets/images/template.png)
